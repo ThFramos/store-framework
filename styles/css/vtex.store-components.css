@@ -3,6 +3,9 @@
     margin: 0 auto;
     padding: 0;
 }
+.infoCardContainer--metal{
+    background-color: #e1e1e1
+}
 
 .infoCardHeadline {
     font-family: serif;
@@ -21,7 +24,7 @@
 }
 
 .infoCardCallActionContainer :global(.vtex-button):hover {
-    color: gray;
+    color: white;
     background-color: blue;
     border: transparent;
 }
