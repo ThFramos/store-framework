@@ -13,12 +13,13 @@
       }
     },
     "product-name":{
-      "props":{
-        "product-identifier.product": "index"
-      },"children": [ 
+             
+      "children": [ 
         "product-price",
         "flex-layout.row#qty-sku"
       ]
+    },"product-identifier.product":{
+
     },
     "flex-layout.row#qty-sku": {
       "children": [
