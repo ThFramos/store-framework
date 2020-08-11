@@ -25,6 +25,9 @@
       }
     },
     "product-identifier.product": {
+      "props":{
+        
+      },
       "children": [ 
         "product-price",
         "flex-layout.row#qty-sku"
@@ -44,6 +47,11 @@
   "sku-selector": {
     "props": {
       "hideImpossibleCombinations": false
+    }
+  },
+   "shipping-simulator": {
+    "props": {
+      "skuID": "342"
     }
   }
 }
