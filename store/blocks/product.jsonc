@@ -29,7 +29,10 @@
         "product-price",
         "flex-layout.row#qty-sku",
         "shipping-simulator"
-      ]
+      ],
+      "props":{
+        "product-price":true
+      }
     },
   "flex-layout.row#qty-sku": {
     "children": [
