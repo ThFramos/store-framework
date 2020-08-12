@@ -69,7 +69,7 @@
     "props": {
       "hideImpossibleCombinations": false,
       "visibleVariations":[],
-      "showValueForVariation":"product-brand",
+      "showValueForVariation":"product-image",
       "showVariationsErrorMessage":true
     }
   },
