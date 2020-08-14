@@ -30,7 +30,7 @@
     "tab-list.item#home1": {
       "props": {
         "tabId": "majorAppliances",
-        "label": "Major Appliances",
+        "label": "Sobre",
         "defaultActiveTab": true
       }
     },
@@ -63,7 +63,7 @@
         "textPosition": "CENTER"
       }
     },
-    
+
     "rich-text#home2": {
       "props": {
         "text": "Área do conteúdo da tab-list.item com  tabId = electronics",
