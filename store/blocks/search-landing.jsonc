@@ -8,7 +8,7 @@
 
     "image#landingbanner":{
         "props":{
-            "minWidth":100,
+            "minWidth":"100%",
             "src":"https://appliancetheme.vteximg.com.br/arquivos/flatflat-brand-logo-square2.png"
         }
     },
@@ -16,8 +16,8 @@
     "search-result-layout.customQuery":{
         "props":{
             "querySchema": {
-                "OrderByReleaseDateDESC": "DES",
-                "hideUnavailableItems": "true",
+                "orderByField":"OrderByReleaseDateDESC",
+                "hideUnavailableItems": true,
                 "maxItemsPerPage": 8,
                 "queryField": "Blue Top Retro Camera",
                 "mapField":"Blue Top Retro Camera"
