@@ -46,12 +46,10 @@
 
         "props": {
           "sticky": true,
-          "inverted":true
+          "inverted":true,
+          "fullWidth":false
         }
       },
-
-
-
 
         "login":{
             "props": {
