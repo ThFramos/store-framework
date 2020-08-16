@@ -3,8 +3,7 @@
       "children": [
           "menu-item#major-appliances",
           "menu-item#small-appliances",
-          "menu-item#electronics",
-          "vtex.menu@2.x:submenu#major-appliances"
+          "menu-item#electronics"
       ],
       "props": {
           "orientation": "horizontal"
@@ -19,7 +18,7 @@
     "itemProps": {
       "text": "Major Aplliances"
     },
-    "blocks": []
+    "blocks": ["vtex.menu@2.x:submenu#major"]
   }
 },
 
@@ -33,7 +32,7 @@
     "text": "Small Appliances"
   }
 },
-"blocks": ["vtex.menu@2.x:submenu#small-appliances"]
+"blocks": ["vtex.menu@2.x:submenu#small"]
 },
 
 "menu-item#electronics": {
